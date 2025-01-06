@@ -1,0 +1,8 @@
+Flask==2.3.2
+tensorflow==2.18.0
+pymongo==4.3.3
+numpy==1.26.0
+plotly==5.9.0
+opencv-python==4.5.5.64
+Pillow==9.4.0
+werkzeug
